@@ -14,15 +14,16 @@
 html, body {
     height: 100vh;
     width: 100vw;
-    background-color: rgba(0, 0, 0, 0.952);
+    background: url('../img/space.jpg') top center;
 }
 
 main{
     width: 100vw;
     height: 100vh;
     position: relative;
-    background: url('../img/space.jpg') center center no-repeat;
+    background: url('../img/space.jpg') top center no-repeat;
     background-size: cover;
+   
 }
 
 section#tv{
