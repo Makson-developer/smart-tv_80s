@@ -62,3 +62,10 @@ section#buttom img:hover{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
     transition: transform .6s, border 0.9s;
 }
+
+footer p{
+    background-color: black;
+    color: white;
+    margin: 0px 15%;
+    text-align: center;
+}
