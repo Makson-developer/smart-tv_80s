@@ -25,6 +25,7 @@ main{
     background-size: cover;
     max-width: 1440px;
     min-width: 600px;
+    min-height:700px;
 }
 
 section#tv{
