@@ -23,6 +23,7 @@ main{
     position: relative;
     background: url('../img/space.png') top center no-repeat;
     background-size: cover;
+    min-width: 600px;
     min-height: 650px;
 }
 
