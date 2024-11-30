@@ -13,12 +13,13 @@
 
 html, body {
     height: 95vh;
-    width: 99vw;
+    width: 98vw;
     background: black;
 }
 
+
 main{
-    width: 99vw;
+    width: 100vw;
     height: 96vh;
     position: relative;
     background: url('../img/space.jpg') top center no-repeat;
@@ -65,7 +66,7 @@ section#buttom img:hover{
 footer p{
     background-color: black;
     color: white;
-    margin: 0px 15%;
+    margin: 5px 15%;
     text-align: center;
 }
 
