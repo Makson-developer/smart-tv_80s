@@ -16,11 +16,12 @@ img{
 }
 
 a{
+    margin-top: -4px;
+    padding: 8px ;
     text-decoration: none;
     text-align: center;
     display: block;
-    background-color: darkred;
-    padding: 08px;
+    background-color: darkred;   
     color: white;
     font-weight: bolder;
 }
